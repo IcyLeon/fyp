@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Randa/OneDrive/Documents/GitHub/fyp/FYP/Content/UI_Assets/EKeyBillboard.uasset",
+				"C:/Users/Randa/OneDrive/Documents/GitHub/fyp/FYP/Content/Actors/TestAI.uasset",
+				"C:/Users/Randa/OneDrive/Documents/GitHub/fyp/FYP/Content/Actors/NPCManager.uasset",
+				"C:/Users/Randa/OneDrive/Documents/GitHub/fyp/FYP/Content/Actors/GameManager.uasset",
 				"C:/Users/210495D/Documents/Unreal Projects/MyProject/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/210495D/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/210495D/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Input/Actions/IA_Run.uasset",
