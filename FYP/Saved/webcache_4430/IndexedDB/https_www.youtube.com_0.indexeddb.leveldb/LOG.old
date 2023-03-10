@@ -1,0 +1,15 @@
+2023/03/10-17:20:00.575 1cf44 Reusing MANIFEST C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/10-17:20:00.575 1cf44 Recovering log #187
+2023/03/10-17:20:00.575 1cf44 Reusing old log C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000187.log 
+2023/03/10-17:21:02.299 1cf6c Level-0 table #192: started
+2023/03/10-17:21:02.306 1cf6c Level-0 table #192: 63716 bytes OK
+2023/03/10-17:21:02.308 1cf6c Delete type=0 #187
+2023/03/10-17:21:02.309 1cf6c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/10-17:21:02.309 1cf6c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 7204 : 1
+2023/03/10-17:21:02.309 1cf6c Compacting 1@1 + 1@2 files
+2023/03/10-17:21:02.314 1cf6c Generated table #193@1: 273 keys, 19258 bytes
+2023/03/10-17:21:02.314 1cf6c Compacted 1@1 + 1@2 files => 19258 bytes
+2023/03/10-17:21:02.316 1cf6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/10-17:21:02.317 1cf6c Delete type=2 #189
+2023/03/10-17:21:02.317 1cf6c Delete type=2 #192
+2023/03/10-17:21:02.318 1cf6c Manual compaction at level-1 from '\x00\x09\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 7204 : 1 .. (end); will stop at (end)
