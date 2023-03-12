@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/W9/FUUTAFY9A4MKX8GZW25GY1.uasset",
-				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EG/NMAH35SMRIVP7DXQIA47GI.uasset",
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YX/6DW3G0YQK7CVH7DY7WPQDF.uasset",
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/Actors/NPCManager.uasset",
@@ -21,6 +20,8 @@
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/51/XU75WBZCJLXNU64XYPNYKV.uasset",
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/CB/EB2OKPYDS95H9J7YISV59B.uasset",
+				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/Actors/TestInteractObj.uasset",
+				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EG/NMAH35SMRIVP7DXQIA47GI.uasset",
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/Actors/deleteme.uasset",
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0C/2OO6LDD5MZSLS2LJ0R6I0I.uasset",
 				"C:/Users/User/Documents/GitHub/fyp/FYP/Content/Actors/TestAI_Main.uasset",
