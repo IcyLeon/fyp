@@ -1,0 +1,6 @@
+2023/03/13-11:33:23.269 15090 Creating DB C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\IndexedDB\https_903769130790969345.discordsays.com_0.indexeddb.leveldb since it was missing.
+2023/03/13-11:33:23.276 15090 Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\IndexedDB\https_903769130790969345.discordsays.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/13-11:35:22.786 2db4 Level-0 table #5: started
+2023/03/13-11:35:22.796 2db4 Level-0 table #5: 1145 bytes OK
+2023/03/13-11:35:22.799 2db4 Delete type=0 #3
+2023/03/13-11:35:22.799 2db4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,2 +1,9 @@
-2023/03/13-08:36:42.902 556c Creating DB C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/03/13-08:36:42.914 556c Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/03/13-11:26:44.930 1531c Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/03/13-11:26:44.931 1531c Recovering log #3
+2023/03/13-11:26:44.931 1531c Reusing old log C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/03/13-11:31:45.284 13dc8 Level-0 table #5: started
+2023/03/13-11:31:45.302 13dc8 Level-0 table #5: 1473258 bytes OK
+2023/03/13-11:31:45.307 13dc8 Delete type=0 #3
+2023/03/13-11:36:45.291 13dc8 Level-0 table #7: started
+2023/03/13-11:36:45.297 13dc8 Level-0 table #7: 75853 bytes OK
+2023/03/13-11:36:45.300 13dc8 Delete type=0 #4
