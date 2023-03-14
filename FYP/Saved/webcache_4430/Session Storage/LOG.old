@@ -1,2 +1,6 @@
-2023/03/13-08:36:43.418 556c Creating DB C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage since it was missing.
-2023/03/13-08:36:43.427 556c Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2023/03/13-10:30:28.311 af74 Reusing MANIFEST C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2023/03/13-10:30:28.312 af74 Recovering log #4
+2023/03/13-10:30:28.313 af74 Reusing old log C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Session Storage/000004.log 
+2023/03/13-15:05:19.401 1056c Level-0 table #6: started
+2023/03/13-15:05:19.405 1056c Level-0 table #6: 12171 bytes OK
+2023/03/13-15:05:19.409 1056c Delete type=0 #4
