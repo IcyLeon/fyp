@@ -1,3 +1,6 @@
-2023/03/13-10:30:27.870 b5f4 Reusing MANIFEST C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/03/13-10:30:27.871 b5f4 Recovering log #4
-2023/03/13-10:30:27.871 b5f4 Reusing old log C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2023/03/14-13:57:29.203 10898 Reusing MANIFEST C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/03/14-13:57:29.205 10898 Recovering log #4
+2023/03/14-13:57:29.205 10898 Reusing old log C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2023/03/14-15:31:11.785 13bc0 Level-0 table #6: started
+2023/03/14-15:31:11.790 13bc0 Level-0 table #6: 9857 bytes OK
+2023/03/14-15:31:11.794 13bc0 Delete type=0 #4

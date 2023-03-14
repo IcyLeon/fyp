@@ -1,9 +1,6 @@
-2023/03/14-13:57:30.016 9bb0 Reusing MANIFEST C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
-2023/03/14-13:57:30.018 9bb0 Recovering log #5
-2023/03/14-13:57:30.019 9bb0 Reusing old log C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Session Storage/000005.log 
-2023/03/14-14:16:12.965 db70 Level-0 table #9: started
-2023/03/14-14:16:12.969 db70 Level-0 table #9: 11986 bytes OK
-2023/03/14-14:16:12.973 db70 Delete type=0 #5
-2023/03/14-15:27:27.724 10778 Level-0 table #11: started
-2023/03/14-15:27:27.728 10778 Level-0 table #11: 11870 bytes OK
-2023/03/14-15:27:27.733 10778 Delete type=0 #8
+2023/03/14-17:53:13.582 18b04 Reusing MANIFEST C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2023/03/14-17:53:13.583 18b04 Recovering log #10
+2023/03/14-17:53:13.584 18b04 Reusing old log C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\Session Storage/000010.log 
+2023/03/14-17:56:59.198 18b04 Level-0 table #14: started
+2023/03/14-17:56:59.201 18b04 Level-0 table #14: 11909 bytes OK
+2023/03/14-17:56:59.204 18b04 Delete type=0 #10
