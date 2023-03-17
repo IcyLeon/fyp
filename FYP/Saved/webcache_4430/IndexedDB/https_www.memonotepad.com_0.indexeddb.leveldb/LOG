@@ -1,0 +1,8 @@
+2023/03/17-16:06:53.150 15974 Reusing MANIFEST C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\IndexedDB\https_www.memonotepad.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/17-16:06:53.150 15974 Recovering log #15
+2023/03/17-16:06:53.151 15974 Reusing old log C:/Users/210352F/Documents/FYP shits/fyp/FYP/Saved/webcache_4430\IndexedDB\https_www.memonotepad.com_0.indexeddb.leveldb/000015.log 
+2023/03/17-16:06:56.731 1584c Level-0 table #20: started
+2023/03/17-16:06:56.731 1584c Level-0 table #20: 0 bytes OK
+2023/03/17-16:06:56.735 1584c Delete type=0 #15
+2023/03/17-16:06:56.735 1584c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/17-16:06:56.735 1584c Manual compaction at level-1 from (begin) .. (end); will stop at (end)
