@@ -1,6 +1,15 @@
-2023/03/17-16:57:32.613 e084 Creating DB C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\IndexedDB\https_www.memonotepad.com_0.indexeddb.leveldb since it was missing.
-2023/03/17-16:57:32.620 e084 Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\IndexedDB\https_www.memonotepad.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/17-16:57:37.156 179c8 Level-0 table #5: started
-2023/03/17-16:57:37.160 179c8 Level-0 table #5: 3093 bytes OK
-2023/03/17-16:57:37.163 179c8 Delete type=0 #3
-2023/03/17-16:57:37.163 179c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/21-16:36:47.854 140bc Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\IndexedDB\https_www.memonotepad.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/21-16:36:47.855 140bc Recovering log #7
+2023/03/21-16:36:47.855 140bc Reusing old log C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\IndexedDB\https_www.memonotepad.com_0.indexeddb.leveldb/000007.log 
+2023/03/21-16:36:53.724 16360 Level-0 table #12: started
+2023/03/21-16:36:53.728 16360 Level-0 table #12: 190 bytes OK
+2023/03/21-16:36:53.730 16360 Delete type=0 #7
+2023/03/21-16:36:53.731 16360 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/21-16:36:53.731 16360 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 146 : 1
+2023/03/21-16:36:53.731 16360 Compacting 1@1 + 1@2 files
+2023/03/21-16:36:53.734 16360 Generated table #13@1: 42 keys, 2831 bytes
+2023/03/21-16:36:53.734 16360 Compacted 1@1 + 1@2 files => 2831 bytes
+2023/03/21-16:36:53.735 16360 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/21-16:36:53.736 16360 Delete type=2 #9
+2023/03/21-16:36:53.736 16360 Delete type=2 #12
+2023/03/21-16:36:53.736 16360 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 146 : 1 .. (end); will stop at (end)
