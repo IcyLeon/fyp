@@ -7,9 +7,10 @@ $query=["
 CREATE TABLE tb_users (
     uid INT NOT NULL AUTO_INCREMENT,
     username VARCHAR(100) NOT NULL,
-    password VARCHAR(32) NOT NULL,
+    password VARCHAR(255) NOT NULL,
     email VARCHAR(255) NOT NULL,
     lastlogin datetime NOT NULL,
+    creation datetime NOT NULL,
     PRIMARY KEY (uid)
 );"
 ,"

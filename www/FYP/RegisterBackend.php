@@ -27,14 +27,15 @@ if ($row == 0) {
         if (strlen($sEmail) > 0) {
             if (strlen($sUsername) > 0) {
                 if (strlen($sPassword) >= 10) {
+                    $hash = password_hash($sPassword, PASSWORD_DEFAULT);
                     // Prepare Statement...? denotes to link to php variables later
-                    $query="insert into tb_users (Username,Password,Email,lastlogin) values (?,?,?,now())";
+                    $query="insert into tb_users (Username,Password,Email,creation,lastlogin) values (?,?,?,Now(),Now())";
                     $stmt=$conn->prepare($query);
                     //s - string, i - integer...to link the php variables to ? earlier
-                    $stmt->bind_param("sss",$sUsername,$sPassword,$sEmail);
+                    $stmt->bind_param("sss",$sUsername,$hash,$sEmail);
                     // Execute Statement
                     $stmt->execute();
-                    echo "Created Successfully";
+                    echo "Account Created Successfully";
 
                     $stmt->close(); // Close Statement
                 }
