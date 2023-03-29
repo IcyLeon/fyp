@@ -22,6 +22,7 @@ CREATE TABLE tb_playerstats (
 CREATE TABLE tb_items_inventory (
     Username VARCHAR(100) NOT NULL,
     itemname VARCHAR(100)
+    itemDesc VARCHAR(255)
 );"
 ];
 foreach($query as $a){
