@@ -18,12 +18,12 @@ if ($row == 0) {
     echo "No account exist";
 }
 else {
-    $query = "select Password from tb_users where Username=? or Email=?";
+    $query = "select Password, Username from tb_users where Username=? or Email=?";
     $stmt2=$conn->prepare($query);
     $stmt2->bind_param("ss", $sUsername, $sUsername);
     $stmt2->execute();
     $stmt2->store_result();
-    $stmt2->bind_result($hash);
+    $stmt2->bind_result($hash,$actualusername);
     $stmt2->fetch();
 
     $verify = password_verify($sPassword, $hash);
@@ -35,7 +35,7 @@ else {
         $stmt2->bind_param("ss", $sUsername, $sUsername);
         $stmt2->execute();
         
-        echo 'Login Success';
+        echo $actualusername;
     } else {
         echo 'Incorrect Password';
     }

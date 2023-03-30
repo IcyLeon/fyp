@@ -19,11 +19,20 @@ CREATE TABLE tb_playerstats (
         cash INT
 );"
 ,"
-CREATE TABLE tb_items_inventory (
-    Username VARCHAR(100) NOT NULL,
-    itemname VARCHAR(100),
-    itemDesc VARCHAR(255)
-);"
+CREATE TABLE tb_itemlist (
+    itemName VARCHAR(100) NOT NULL,
+    itemDesc VARCHAR(255),
+    itemimage BLOB NOT NULL,
+    PRIMARY KEY (itemName)
+);"  
+,"
+CREATE TABLE tb_users_items_inventory (
+    itemNameFromList VARCHAR(100) NOT NULL,
+    uid INT NOT NULL,
+    FOREIGN KEY (uid) REFERENCES tb_users(uid),
+    FOREIGN KEY (itemNameFromList) REFERENCES tb_itemlist(itemName),
+    Quantity INT NOT NULL
+);"   
 ];
 foreach($query as $a){
 
