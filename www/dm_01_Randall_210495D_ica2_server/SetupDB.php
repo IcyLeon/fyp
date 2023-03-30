@@ -7,22 +7,35 @@ $query=["
 CREATE TABLE tb_users (
     uid INT NOT NULL AUTO_INCREMENT,
     username VARCHAR(100) NOT NULL,
-    password VARCHAR(255) NOT NULL,
+    password VARCHAR(32) NOT NULL,
     email VARCHAR(255) NOT NULL,
     lastlogin datetime NOT NULL,
-    creation datetime NOT NULL,
     PRIMARY KEY (uid)
 );"
 ,"
 CREATE TABLE tb_playerstats (
         Username VARCHAR(100) NOT NULL,
-        cash INT
+        Level INT,
+        XP INT,
+        cash INT,
+        totaltimesplayed INT DEFAULT 0 NOT NULL
+);"
+,"
+CREATE TABLE tb_leaderboard (
+            username varchar(100) NOT NULL,
+            score int NOT NULL
+);"
+,"
+CREATE TABLE tb_shop (
+    itemname VARCHAR(100) NOT NULL,
+    price INT DEFAULT 0 NOT NULL,
+    minlevel INT DEFAULT 0 NOT NULL
 );"
 ,"
 CREATE TABLE tb_items_inventory (
-    Username VARCHAR(100) NOT NULL,
+    username VARCHAR(100) NOT NULL,
     itemname VARCHAR(100),
-    itemDesc VARCHAR(255)
+    itemboughttime datetime
 );"
 ];
 foreach($query as $a){
@@ -33,6 +46,7 @@ if(mysqli_query($conn,$a)){
     echo "Broken".mysqli_error($conn);
 }
 }
+
 $conn->close(); // Close connection
 
 ?>

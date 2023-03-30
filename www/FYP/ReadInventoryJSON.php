@@ -11,14 +11,14 @@ $stmt=$conn->prepare($selectusers);
 $stmt->bind_param("s", $sUsername);
 $stmt->execute();
 $stmt->store_result();
-$stmt->bind_result($sUsername, $itemname);
+$stmt->bind_result($sUsername, $itemname, $itemdesc);
 $row = $stmt->num_rows();
 
 $arr=Array(); //JSON use: create main array 
 //Fetch results
 while($stmt->fetch()){
     //JSON use: create associative array for each record //4json
-    $playerstats=array("username"=>$sUsername,"itemown"=>$itemname);
+    $playerstats=array("username"=>$sUsername,"itemown"=>$itemname,"itemdesc"=>$itemdesc);
     //JSON use: add to main index array 
     array_push($arr, $playerstats); //corrected typo
 }
