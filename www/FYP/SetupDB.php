@@ -22,7 +22,6 @@ CREATE TABLE tb_playerstats (
 CREATE TABLE tb_itemlist (
     itemName VARCHAR(100) NOT NULL,
     itemDesc VARCHAR(255),
-    itemimage BLOB NOT NULL,
     PRIMARY KEY (itemName)
 );"  
 ,"
