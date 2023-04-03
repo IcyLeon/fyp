@@ -17,10 +17,12 @@ $stmt = $conn->prepare($query);
 $stmt->bind_param("ss", $sItem, $sPlayerName);
 $stmt->execute();
 $stmt->store_result();
+$stmt->bind_result($sPlayerUID);
 $stmt->fetch();
 $row = $stmt->num_rows();
 
-$query="select uid from tb_users where username=?";
+
+$query="select uid from tb_users where Username=?";
 $stmt = $conn->prepare($query);
 $stmt->bind_param("s", $sPlayerName);
 $stmt->execute();
