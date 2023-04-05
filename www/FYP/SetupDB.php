@@ -32,7 +32,7 @@ CREATE TABLE tb_itemlist (
 //     Quantity INT NOT NULL
 // );"  
 ,"
-CREATE TABLE tb_users_items_inventory (
+CREATE TABLE tb_users_inventory (
    itemNameFromList VARCHAR(100) NOT NULL,
    uid INT NOT NULL,
    FOREIGN KEY (uid) REFERENCES tb_users(uid),

@@ -15,9 +15,9 @@ $sUsername=$_POST["sUsername"];
 
 $selectusers = "
 select itemNameFromList, tb_users.Username, tb_itemlist.itemDesc, Quantity
-from tb_users_items_inventory 
+from tb_users_inventory 
 inner join tb_users 
-on tb_users.uid = tb_users_items_inventory.uid  
+on tb_users.uid = tb_users_inventory.uid  
 inner join tb_itemlist 
 on tb_itemlist.itemName = itemNameFromList  
 where tb_users.Username=?";
