@@ -1,21 +1,6 @@
-2023/04/05-08:59:26.269 444c Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
-2023/04/05-08:59:26.270 444c Recovering log #135
-2023/04/05-08:59:26.271 444c Reusing old log C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/000135.log 
-2023/04/05-09:20:13.376 16280 Level-0 table #139: started
-2023/04/05-09:20:13.382 16280 Level-0 table #139: 12212 bytes OK
-2023/04/05-09:20:13.385 16280 Delete type=0 #135
-2023/04/05-14:04:37.638 14b2c Level-0 table #141: started
-2023/04/05-14:04:37.642 14b2c Level-0 table #141: 12085 bytes OK
-2023/04/05-14:04:37.645 14b2c Delete type=0 #138
-2023/04/05-14:04:37.646 14b2c Compacting 4@0 + 1@1 files
-2023/04/05-14:04:37.657 14b2c Generated table #142@0: 5483 keys, 109638 bytes
-2023/04/05-14:04:37.658 14b2c Compacted 4@0 + 1@1 files => 109638 bytes
-2023/04/05-14:04:37.659 14b2c compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/04/05-14:04:37.660 14b2c Delete type=2 #131
-2023/04/05-14:04:37.661 14b2c Delete type=2 #133
-2023/04/05-14:04:37.661 14b2c Delete type=2 #136
-2023/04/05-14:04:37.661 14b2c Delete type=2 #139
-2023/04/05-14:04:37.661 14b2c Delete type=2 #141
-2023/04/05-16:34:48.661 18730 Level-0 table #144: started
-2023/04/05-16:34:48.666 18730 Level-0 table #144: 11852 bytes OK
-2023/04/05-16:34:48.668 18730 Delete type=0 #140
+2023/04/06-09:24:22.216 64b4 Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2023/04/06-09:24:22.217 64b4 Recovering log #143
+2023/04/06-09:24:22.218 64b4 Reusing old log C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/000143.log 
+2023/04/06-10:06:17.322 64b4 Level-0 table #147: started
+2023/04/06-10:06:17.326 64b4 Level-0 table #147: 12102 bytes OK
+2023/04/06-10:06:17.329 64b4 Delete type=0 #143
