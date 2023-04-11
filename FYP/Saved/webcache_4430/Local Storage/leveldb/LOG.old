@@ -1,14 +1,2 @@
-2023/04/10-18:34:22.547 15cc Reusing MANIFEST C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/04/10-18:34:22.548 15cc Delete type=0 #99
-2023/04/10-22:38:45.894 38d0 Level-0 table #108: started
-2023/04/10-22:38:45.899 38d0 Level-0 table #108: 11351 bytes OK
-2023/04/10-22:38:45.902 38d0 Delete type=0 #106
-2023/04/10-22:38:45.905 38d0 Compacting 4@0 + 1@1 files
-2023/04/10-22:38:45.911 38d0 Generated table #109@0: 45 keys, 25316 bytes
-2023/04/10-22:38:45.911 38d0 Compacted 4@0 + 1@1 files => 25316 bytes
-2023/04/10-22:38:45.912 38d0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/04/10-22:38:45.913 38d0 Delete type=2 #95
-2023/04/10-22:38:45.913 38d0 Delete type=2 #97
-2023/04/10-22:38:45.913 38d0 Delete type=2 #100
-2023/04/10-22:38:45.913 38d0 Delete type=2 #104
-2023/04/10-22:38:45.913 38d0 Delete type=2 #108
+2023/04/11-09:04:41.452 134b8 Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/04/11-09:04:41.454 134b8 Delete type=0 #103
