@@ -1,2 +1,30 @@
-2023/04/11-09:04:42.157 134b8 Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
-2023/04/11-09:04:42.159 134b8 Delete type=0 #175
+2023/04/11-09:17:20.646 8b78 Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2023/04/11-09:17:20.647 8b78 Recovering log #191
+2023/04/11-09:17:20.648 8b78 Reusing old log C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/000191.log 
+2023/04/11-10:10:09.057 e51c Level-0 table #193: started
+2023/04/11-10:10:09.062 e51c Level-0 table #193: 12165 bytes OK
+2023/04/11-10:10:09.065 e51c Delete type=0 #191
+2023/04/11-10:35:40.179 e51c Level-0 table #195: started
+2023/04/11-10:35:40.184 e51c Level-0 table #195: 11966 bytes OK
+2023/04/11-10:35:40.188 e51c Delete type=0 #192
+2023/04/11-11:42:34.294 15e14 Level-0 table #197: started
+2023/04/11-11:42:34.299 15e14 Level-0 table #197: 12247 bytes OK
+2023/04/11-11:42:34.302 15e14 Delete type=0 #194
+2023/04/11-13:05:29.755 a168 Level-0 table #199: started
+2023/04/11-13:05:29.761 a168 Level-0 table #199: 11941 bytes OK
+2023/04/11-13:05:29.763 a168 Delete type=0 #196
+2023/04/11-13:05:29.764 a168 Compacting 4@0 + 1@1 files
+2023/04/11-13:05:29.775 a168 Generated table #200@0: 6292 keys, 146026 bytes
+2023/04/11-13:05:29.775 a168 Compacted 4@0 + 1@1 files => 146026 bytes
+2023/04/11-13:05:29.776 a168 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/11-13:05:29.777 a168 Delete type=2 #189
+2023/04/11-13:05:29.777 a168 Delete type=2 #193
+2023/04/11-13:05:29.777 a168 Delete type=2 #195
+2023/04/11-13:05:29.777 a168 Delete type=2 #197
+2023/04/11-13:05:29.777 a168 Delete type=2 #199
+2023/04/11-15:31:04.631 310 Level-0 table #202: started
+2023/04/11-15:31:04.636 310 Level-0 table #202: 11939 bytes OK
+2023/04/11-15:31:04.639 310 Delete type=0 #198
+2023/04/11-18:00:34.261 f09c Level-0 table #204: started
+2023/04/11-18:00:34.274 f09c Level-0 table #204: 12170 bytes OK
+2023/04/11-18:00:34.277 f09c Delete type=0 #201
