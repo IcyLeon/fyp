@@ -1,18 +1,6 @@
-2023/04/15-14:22:33.179 1300 Reusing MANIFEST C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/04/15-14:22:33.181 1300 Recovering log #129
-2023/04/15-14:22:33.182 1300 Reusing old log C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/000129.log 
-2023/04/15-16:45:05.389 31f4 Level-0 table #133: started
-2023/04/15-16:45:05.393 31f4 Level-0 table #133: 12062 bytes OK
-2023/04/15-16:45:05.395 31f4 Delete type=0 #129
-2023/04/15-23:54:56.577 34f8 Level-0 table #135: started
-2023/04/15-23:54:56.580 34f8 Level-0 table #135: 11538 bytes OK
-2023/04/15-23:54:56.583 34f8 Delete type=0 #132
-2023/04/15-23:54:56.587 12dc Compacting 4@0 + 1@1 files
-2023/04/15-23:54:56.593 12dc Generated table #136@0: 46 keys, 25383 bytes
-2023/04/15-23:54:56.594 12dc Compacted 4@0 + 1@1 files => 25383 bytes
-2023/04/15-23:54:56.594 12dc compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/04/15-23:54:56.595 12dc Delete type=2 #123
-2023/04/15-23:54:56.595 12dc Delete type=2 #127
-2023/04/15-23:54:56.595 12dc Delete type=2 #130
-2023/04/15-23:54:56.596 12dc Delete type=2 #133
-2023/04/15-23:54:56.596 12dc Delete type=2 #135
+2023/04/16-22:02:54.019 39b0 Reusing MANIFEST C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/04/16-22:02:54.021 39b0 Recovering log #141
+2023/04/16-22:02:54.022 39b0 Reusing old log C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/000141.log 
+2023/04/16-23:28:47.763 ea8 Level-0 table #145: started
+2023/04/16-23:28:47.766 ea8 Level-0 table #145: 11800 bytes OK
+2023/04/16-23:28:47.769 ea8 Delete type=0 #141

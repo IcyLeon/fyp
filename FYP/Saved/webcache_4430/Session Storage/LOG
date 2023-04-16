@@ -1,21 +1,18 @@
-2023/04/15-14:22:35.769 1300 Reusing MANIFEST C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
-2023/04/15-14:22:35.770 1300 Recovering log #231
-2023/04/15-14:22:35.771 1300 Reusing old log C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/000231.log 
-2023/04/15-14:58:04.939 750 Level-0 table #233: started
-2023/04/15-14:58:04.943 750 Level-0 table #233: 12120 bytes OK
-2023/04/15-14:58:04.946 750 Delete type=0 #231
-2023/04/15-17:59:57.896 c7c Level-0 table #235: started
-2023/04/15-17:59:57.900 c7c Level-0 table #235: 12090 bytes OK
-2023/04/15-17:59:57.902 c7c Delete type=0 #232
-2023/04/15-17:59:57.903 c7c Compacting 4@0 + 1@1 files
-2023/04/15-17:59:57.911 c7c Generated table #236@0: 6782 keys, 167837 bytes
-2023/04/15-17:59:57.911 c7c Compacted 4@0 + 1@1 files => 167837 bytes
-2023/04/15-17:59:57.912 c7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/04/15-17:59:57.913 c7c Delete type=2 #224
-2023/04/15-17:59:57.913 c7c Delete type=2 #227
-2023/04/15-17:59:57.913 c7c Delete type=2 #229
-2023/04/15-17:59:57.913 c7c Delete type=2 #233
-2023/04/15-17:59:57.913 c7c Delete type=2 #235
-2023/04/15-22:29:49.086 12dc Level-0 table #238: started
-2023/04/15-22:29:49.090 12dc Level-0 table #238: 12124 bytes OK
-2023/04/15-22:29:49.092 12dc Delete type=0 #234
+2023/04/16-22:02:54.846 11e0 Reusing MANIFEST C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2023/04/16-22:02:54.846 11e0 Recovering log #252
+2023/04/16-22:02:54.847 11e0 Reusing old log C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/000252.log 
+2023/04/16-22:48:31.384 21a0 Level-0 table #256: started
+2023/04/16-22:48:31.387 21a0 Level-0 table #256: 12010 bytes OK
+2023/04/16-22:48:31.390 21a0 Delete type=0 #252
+2023/04/16-22:48:31.391 21a0 Compacting 4@0 + 1@1 files
+2023/04/16-22:48:31.402 21a0 Generated table #257@0: 7095 keys, 182148 bytes
+2023/04/16-22:48:31.402 21a0 Compacted 4@0 + 1@1 files => 182148 bytes
+2023/04/16-22:48:31.403 21a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/16-22:48:31.403 21a0 Delete type=2 #246
+2023/04/16-22:48:31.403 21a0 Delete type=2 #248
+2023/04/16-22:48:31.403 21a0 Delete type=2 #251
+2023/04/16-22:48:31.403 21a0 Delete type=2 #253
+2023/04/16-22:48:31.403 21a0 Delete type=2 #256
+2023/04/17-00:40:03.078 788 Level-0 table #259: started
+2023/04/17-00:40:03.081 788 Level-0 table #259: 12288 bytes OK
+2023/04/17-00:40:03.083 788 Delete type=0 #255
