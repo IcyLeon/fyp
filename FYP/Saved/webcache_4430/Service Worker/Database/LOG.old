@@ -1,3 +1,6 @@
-2023/04/16-22:02:54.035 2ac0 Reusing MANIFEST C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Service Worker\Database/MANIFEST-000001
-2023/04/16-22:02:54.035 2ac0 Recovering log #3
-2023/04/16-22:02:54.038 2ac0 Reusing old log C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Service Worker\Database/000003.log 
+2023/04/17-09:33:35.373 15434 Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Service Worker\Database/MANIFEST-000001
+2023/04/17-09:33:35.373 15434 Recovering log #3
+2023/04/17-09:33:35.376 15434 Reusing old log C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Service Worker\Database/000003.log 
+2023/04/17-09:33:39.174 5d44 Level-0 table #5: started
+2023/04/17-09:33:39.178 5d44 Level-0 table #5: 63364 bytes OK
+2023/04/17-09:33:39.181 5d44 Delete type=0 #3
