@@ -1,7 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\User\\Documents\\GitHub\\fyp\\FYP\\Plugins\\MysqlDBUnrealengine4.26-main\\Source\\MySQLConnectorUE4Plugin\\MySQLConnectorUE4Plugin.Build.cs",
-		"C:\\Users\\User\\Documents\\GitHub\\fyp\\FYP\\Plugins\\MysqlDBUnrealengine4.26-main\\Source\\ThirdParty\\MariaDBConnectorLibs\\MariaDBConnectorLibs.Build.cs"
-	],
-	"EngineVersion": "5.1.1"
-}
