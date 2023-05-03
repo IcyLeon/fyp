@@ -1,6 +1,2 @@
-2023/05/03-15:17:41.423 8bcc Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/05/03-15:17:41.424 8bcc Recovering log #221
-2023/05/03-15:17:41.424 8bcc Reusing old log C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/000221.log 
-2023/05/03-17:18:40.648 16664 Level-0 table #225: started
-2023/05/03-17:18:40.659 16664 Level-0 table #225: 11763 bytes OK
-2023/05/03-17:18:40.662 16664 Delete type=0 #221
+2023/05/03-21:15:37.532 cd4 Reusing MANIFEST C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/03-21:15:37.534 cd4 Delete type=0 #221
