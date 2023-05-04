@@ -1,3 +1,9 @@
-2023/05/04-00:31:41.269 4180 Reusing MANIFEST C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
-2023/05/04-00:31:41.272 4180 Recovering log #401
-2023/05/04-00:31:41.273 4180 Reusing old log C:/Users/User/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/000401.log 
+2023/05/04-09:28:14.953 15e74 Reusing MANIFEST C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/MANIFEST-000001
+2023/05/04-09:28:14.955 15e74 Recovering log #398
+2023/05/04-09:28:14.956 15e74 Reusing old log C:/Users/210495D/Documents/GitHub/fyp/FYP/Saved/webcache_4430\Session Storage/000398.log 
+2023/05/04-10:36:36.807 16a54 Level-0 table #402: started
+2023/05/04-10:36:36.811 16a54 Level-0 table #402: 12346 bytes OK
+2023/05/04-10:36:36.813 16a54 Delete type=0 #398
+2023/05/04-11:25:17.929 11874 Level-0 table #404: started
+2023/05/04-11:25:17.935 11874 Level-0 table #404: 12235 bytes OK
+2023/05/04-11:25:17.939 11874 Delete type=0 #401
